@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Second programming assignment in R Programming, this functions will cache potentially time-consuming computations
+## as computing over a large vector
 
 ## Write a short comment describing this function
 
